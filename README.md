@@ -1,16 +1,13 @@
-### Hi there 👋
+#### Hello, I’m @tushari789
 
-<!--
-**tushari789/tushari789** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### My Project Links
+- [Oribi E-commerce](https://oribi-react.netlify.app) - React
+- [Pechal Chatting app]( https://pechal-app.netlify.app) - React
+- [Amazon Shopping](https://amazon-shopping-c.netlify.app/login) - React
+- [Facebook Clone](https://facebook-tclone.netlify.app) - React
+- [BWFC Project](https://bwfc-bff.netlify.app) - react
+- [Linkedin Social Media](https://linkedin0.netlify.app/login) - React 
+- [Creative Bank](https://tushar-creative-bank.netlify.app) - JS 
+- [Todo]( https://zesty-naiad-e0c793.netlify.app) - JS
+- [Innovate](https://tushari789.github.io/Innovate/) - HTML/CSS
+- [E-School resources](https://tushari789.github.io/e-school-resources-master) - HTML/CSS 
