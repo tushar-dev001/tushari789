@@ -1,4 +1,4 @@
-#### 👋  Hello, I’m @tushari789
+#### 👋  Hello, I’m @tushar-dev001
 
 ### 🔗 My Project Links
 - [Oribi E-commerce](https://oribi-react.netlify.app) - React
